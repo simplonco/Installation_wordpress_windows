@@ -24,11 +24,18 @@ Sur Windows 10 :
 
 #Installer Wordpress
 
-* Télécharger ensuite le .zip de Wordpress et l'extraire
+* [lien pour installer wordpress (pensez à télécharger la version française)](https://wordpress.org/download/)
+* [guide pour installer WP :](https://codex.wordpress.org/Installing_WordPress#Famous_5-Minute_Install)
+
+  
+* Télécharger ensuite le .zip de Wordpress et l'extraire (pensez à télécharger la version française)
 : *[le lien dispo ici](https://wordpress.org/download/)*
 
-#Lier Wordpress et votre serveur
+Lier Wordpress et votre serveur
 * copier-coller le contenu du dossier Wordpress dans le dossier "htdocs" de MAMP/WAMP
+
+* renommer le wp-config-sample.php en wp-config.php
+* indiquer les infos de la database
 
 La documentation sur MAMP pour windows : https://documentation-3.mamp.info/en/documentation/mamp-windows/
 
